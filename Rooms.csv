@@ -1,0 +1,66 @@
+Code,HomeRoomOf,Campus,Size,AdminId,Unavailable,Notes
+A1,LEUN,,30,,,SCI
+A2,,,30,,,
+A3,,,30,,,TAS junior FT; yr 8 HE
+A4,,,24,,,TAS commercial kitchen
+A5,,,24,,,TAS theory room
+A11,WILL,,30,,,PDHPE
+A12,LEON,,30,,,PDHPE
+A13,FARN,,30,,,PDHPE
+A14,TRUE,,24,,,PDHPE
+A15,,,30,,,PDHPE
+A16,,,24,,,TAS textiles
+A17,GAY,,30,,,PDHPE
+C2,,,24,,,TAS wood
+C3,,,24,,,TAS wood
+C4,,,24,,,TAS metal/wood
+C5,,,24,,,TAS STEM room
+C6,,,24,,,TAS
+D1,PYOU,,30,,,HSIE
+D2,WALK,,30,,,HSIE
+D3,ZUBE,,24,,,CAPA
+D4,,,24,,,CAPA
+D11,SIMM,,30,,,HSIE
+D12,STEV,,30,,,HSIE
+D13,EMIR,,30,,,HSIE
+D14,,,24,,,CAPA
+D15,,,24,,,CAPA
+D16,PEAR,,30,,,HSIE
+D17,MATA,,30,,,HSIE
+DRA,MARR,,30,,,CAPA
+E1,ROY,,30,,,LOTE
+E2,BOZI,,30,,,SCI
+E3,NEWE,,30,,,SCI
+E4,PRAS,,30,,,MAT
+E5,DAOU,,30,,,MAT
+E6,DRAK,,30,,,MAT
+E7,JOB,,30,,,MAT
+E11,ARAM,,30,,,ENG
+E12,BADM,,30,,,ENG
+E13,SENT,,30,,,ENG
+E14,THET,,30,,,ENG
+E15,MILL,,30,,,ENG
+E16,AHMA,,30,,,LAN
+E17,DOLZ,,30,,,ENG
+E18,GBRO,,30,,,ENG
+G1,NAIK,,30,,,SCI
+G2,SCAK,,30,,,SCI
+G3,PILL,,30,,,SCI
+G4,TRAN,,30,,,MAT
+G11,,,30,,,
+G12,LMIL,,30,,,MAT
+G13,CHAU,,30,,,MAT
+G14,BRIS,,24,,,JIM room
+G15,ZIAM,,30,,,TAS
+G16,ROTO,,18,,,IO room
+G17,EBEN,,20,,,SIM room
+G18,KIML,,24,,,CAPA
+G19,BONL,,24,,,CAPA
+HALL,,,,,,CAPA
+LC,,,,,,Learning Centre A Block
+LIB1,GORD,,,,,
+LIB2,,,,,,
+LIB3,,,,,,
+LIB4,,,,,,
+LIB5,,,,,,
+TUT3,,,,,,
